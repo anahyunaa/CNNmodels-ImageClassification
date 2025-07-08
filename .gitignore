@@ -40,12 +40,12 @@ ENV/
 Thumbs.db
 
 # Large datasets (uncomment if needed)
-# DatasetTrashnet/
-# data_split/
+DatasetTrashnet/
+data_split/
 
 # Model files (optional - comment out if you want to include models)
-# models/*.keras
-# models/*.h5
+models/*.keras
+models/*.h5
 
 # Logs (optional)
 # logs/
