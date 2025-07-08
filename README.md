@@ -201,16 +201,10 @@ This project was developed by:
 
 | Name | Student ID | Email | Role |
 |------|------------|-------|------|
-| Fairus Rajendra Wiranata | 101121050 | fairus344@gmail.com | Team Leader / Model Architecture |
-| Ni Putu Merta Bhuana N | 105222008 | putumertabhuana@gmail.com | Data Preprocessing / EDA |
-| Arshanda Geulis Nawajaputri | 105222045 | arshandagn06@gmail.com | Model Training / Optimization |
-| Yan Stephen Christian Immanuel | 105222010 | yan.stephen49@gmail.com | Evaluation / Documentation |
-
-### Contributions:
-- **Fairus Rajendra Wiranata**: Designed model architectures, implemented transfer learning approach
-- **Ni Putu Merta Bhuana N**: Performed exploratory data analysis, data preprocessing and augmentation  
-- **Arshanda Geulis Nawajaputri**: Handled model training, hyperparameter tuning, and performance optimization
-- **Yan Stephen Christian Immanuel**: Conducted model evaluation, created visualizations, and wrote documentation
+| Fairus Rajendra Wiranata | 101121050 | fairus344@gmail.com | Model Architecture |
+| Ni Putu Merta Bhuana N | 105222008 | putumertabhuana@gmail.com | Team Leader and Creating Report |
+| Arshanda Geulis Nawajaputri | 105222045 | arshandagn06@gmail.com | Creating Manual Books |
+| Yan Stephen Christian Immanuel | 105222010 | yan.stephen49@gmail.com | Creating code |
 
 ## 🤝 Contributing
 
