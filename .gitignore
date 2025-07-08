@@ -48,7 +48,7 @@ models/*.keras
 models/*.h5
 
 # Logs (optional)
-# logs/
+logs/
 
 # Temporary files
 *.tmp
