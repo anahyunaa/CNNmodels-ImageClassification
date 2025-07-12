@@ -202,7 +202,7 @@ This project was developed by:
 | Name | Student ID | Email | Role |
 |------|------------|-------|------|
 | Fairus Rajendra Wiranata | 101121050 | fairus344@gmail.com | Model Architecture |
-| Ni Putu Merta Bhuana N | 105222008 | putumertabhuana@gmail.com | Team Leader and Creating Report |
+| Ni Putu Merta Bhuana N | 105222008 | putumertabhuana@gmail.com | Team Leader and Creating Paper |
 | Arshanda Geulis Nawajaputri | 105222045 | arshandagn06@gmail.com | Creating Manual Books |
 | Yan Stephen Christian Immanuel | 105222010 | yan.stephen49@gmail.com | Creating code |
 
